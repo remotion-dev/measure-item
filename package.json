@@ -11,13 +11,13 @@
   "repository": {},
   "license": "UNLICENSED",
   "dependencies": {
-    "@remotion/cli": "4.0.103",
+    "@remotion/cli": "4.0.104",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "remotion": "4.0.103"
+    "remotion": "4.0.104"
   },
   "devDependencies": {
-    "@remotion/eslint-config": "4.0.103",
+    "@remotion/eslint-config": "4.0.104",
     "@types/react": "^18.0.26",
     "@types/web": "^0.0.86",
     "eslint": "^8.43.0",
